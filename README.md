@@ -1,6 +1,6 @@
-# Multi-Agent Travel Planning System — LangGraph + MCP + Supervisor + Guardrails + Human-in-the-Loop
+<img width="1456" height="795" alt="Screenshot 2026-11-20 at 1 26 05 PM" src="https://github.com/user-attachments/assets/d23946d7-8e74-406d-90a6-7d0842ba6e79" /># Multi-Agent Travel Planning System — LangGraph + MCP + Supervisor + Guardrails + Human-in-the-Loop
 
-![Uploading Screenshot 2026-11-20 at 1.26.05 PM.png…]()
+
 
 
 A real-world multi-agent travel planner built with **LangGraph**. A supervisor agent validates the
