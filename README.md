@@ -1,5 +1,8 @@
 # Multi-Agent Travel Planning System — LangGraph + MCP + Supervisor + Guardrails + Human-in-the-Loop
 
+![Uploading Screenshot 2026-11-20 at 1.26.05 PM.png…]()
+
+
 A real-world multi-agent travel planner built with **LangGraph**. A supervisor agent validates the
 request, decides which specialist agents to run, and routes work through them. Live data comes from
 three **MCP servers** (Tavily, AviationStack, OpenWeatherMap). The draft itinerary is paused for
