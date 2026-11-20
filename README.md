@@ -1,6 +1,4 @@
-<img width="1456" height="795" alt="Screenshot 2026-11-20 at 1 26 05 PM" src="https://github.com/user-attachments/assets/d23946d7-8e74-406d-90a6-7d0842ba6e79" /># Multi-Agent Travel Planning System — LangGraph + MCP + Supervisor + Guardrails + Human-in-the-Loop
-
-
+# Multi-Agent Travel Planning System — LangGraph + MCP + Supervisor + Guardrails + Human-in-the-Loop
 
 
 A real-world multi-agent travel planner built with **LangGraph**. A supervisor agent validates the
@@ -9,16 +7,8 @@ three **MCP servers** (Tavily, AviationStack, OpenWeatherMap). The draft itinera
 **human approval** before the final plan is produced, and conversation state is checkpointed in
 **PostgreSQL** so a thread can be resumed.
 
-This is **Part 5** of the series — it shows how to deploy the project on VPS using Docker
-
-
-| Part | Focus | Repo | Video |
-|---|---|---|---|
-| 1 | Multi-Agent + Memory + APIs | [AI-Travel-Planning-System-using-LangGraph](https://github.com/codewithaarohi/AI-Travel-Planning-System-using-LangGraph) | [youtu.be/ctHby5vhDqg](https://youtu.be/ctHby5vhDqg) |
-| 2 | Multi-Agent + Memory + MCP | [AI-Travel-Planning-App-using-LangGraph-and-MCP](https://github.com/codewithaarohi/AI-Travel-Planning-App-using-LangGraph-and-MCP) | [youtu.be/DjMX7o2EeV0](https://youtu.be/DjMX7o2EeV0) |
-| 3 | Supervisor + Guardrails + HITL | [Supervisor Agent + Guardrails + HITL ](https://github.com/codewithaarohi/Multi_agent_system_part_3) |[youtu.be/ZULVHkPa4xk](https://youtu.be/ZULVHkPa4xk) |
-| 4 | Deploy a Multi-Agent AI App on VPS | Deploy a Multi-Agent AI App on VPS from Scratch Part 4|[youtu.be/84LbJElhfL4](https://youtu.be/84LbJElhfL4) |
-| 5 | Deploy a Multi-Agent AI App on VPS using Docker | [Deploy a Multi-Agent AI App on VPS using Docker ](https://github.com/codewithaarohi/Multi_agent_system_part_5)|[youtu.be/XsJxUBjxIqU](https://youtu.be/XsJxUBjxIqU) |
+Screenshot of the app:
+<img width="1456" height="795" alt="Screenshot 2026-11-20 at 1 26 05 PM" src="https://github.com/user-attachments/assets/d23946d7-8e74-406d-90a6-7d0842ba6e79" />
 
 ---
 
@@ -175,4 +165,6 @@ Plan a complete 7 days Japan trip including flights, hotels and sightseeing unde
 - Streamlit web UI
 - Docker Compose deployment
 
+
+Credits: code with arohi
 
